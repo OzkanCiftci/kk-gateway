@@ -1,10 +1,7 @@
-
-  ${AnsiColor.GREEN}      ██╗${AnsiColor.CYAN} ██╗   ██╗ ████████╗ ███████╗   ██████╗ ████████╗ ████████╗ ███████╗
-  ${AnsiColor.GREEN}      ██║${AnsiColor.CYAN} ██║   ██║ ╚══██╔══╝ ██╔═══██╗ ██╔════╝ ╚══██╔══╝ ██╔═════╝ ██╔═══██╗
-  ${AnsiColor.GREEN}      ██║${AnsiColor.CYAN} ████████║    ██║    ███████╔╝ ╚█████╗     ██║    ██████╗   ███████╔╝
-  ${AnsiColor.GREEN}██╗   ██║${AnsiColor.CYAN} ██╔═══██║    ██║    ██╔════╝   ╚═══██╗    ██║    ██╔═══╝   ██╔══██║
-  ${AnsiColor.GREEN}╚██████╔╝${AnsiColor.CYAN} ██║   ██║ ████████╗ ██║       ██████╔╝    ██║    ████████╗ ██║  ╚██╗
-  ${AnsiColor.GREEN} ╚═════╝ ${AnsiColor.CYAN} ╚═╝   ╚═╝ ╚═══════╝ ╚═╝       ╚═════╝     ╚═╝    ╚═══════╝ ╚═╝   ╚═╝
-
-${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} ::
-:: https://www.jhipster.tech ::${AnsiColor.DEFAULT}
+  _  __  _  __           ____      _      _____   _____  __        __     _     __   __
+ | |/ / | |/ /          / ___|    / \    |_   _| | ____| \ \      / /    / \    \ \ / /
+ | ' /  | ' /   _____  | |  _    / _ \     | |   |  _|    \ \ /\ / /    / _ \    \ V / 
+ | . \  | . \  |_____| | |_| |  / ___ \    | |   | |___    \ V  V /    / ___ \    | |  
+ |_|\_\ |_|\_\          \____| /_/   \_\   |_|   |_____|    \_/\_/    /_/   \_\   |_|
+                                                   
+Designed by ${AnsiColor.BRIGHT_RED}koyu${AnsiColor.BRIGHT_GREEN}kavruk
